@@ -11,7 +11,7 @@ const products = [
     { id: '6', title: 'Lopo', description: 'reversible angora cardigan', price: 120, image: require('../assets/images/dress6.png') },
     { id: '7', title: '21WN', description: 'reversible angora cardigan', price: 120, image: require('../assets/images/dress7.png') },
     { id: '8', title: 'Lame', description: 'reversible angora cardigan', price: 120, image: require('../assets/images/dress3.png') },
-];
+];  
 
 export default function HomeScreen({ navigation }) {
     const addToCart = async (product) => {
