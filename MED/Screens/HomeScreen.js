@@ -45,7 +45,7 @@ export default function HomeScreen({ navigation }) {
                     <Text style={styles.title}>Open Fashion</Text>
                 </View>
                 <View style={styles.iconContainer}>
-                    <Image source={require('../assets/images/Search(3).png')} style={styles.icon} />
+                    <Image source={require('../assets/images/Search.png')} style={styles.icon} />
                     <TouchableOpacity onPress={() => navigation.navigate('CartScreen')}>
                         <Image source={require('../assets/images/shoppingBag.png')} style={styles.icon} />
                     </TouchableOpacity>

@@ -25,4 +25,13 @@ This project is a simple mobile application developed with React Native. The app
 
 ### Screenshots
 
+![alt text](MED/assets/images/IMG-20240703-WA0028.jpg)
+![alt text](MED/assets/images/IMG-20240703-WA0027.jpg)
+![alt text](MED/assets/images/IMG-20240703-WA0026.jpg)
+![alt text](MED/assets/images/IMG-20240703-WA0025.jpg)
+![alt text](MED/assets/images/IMG-20240703-WA0024.jpg)
+![alt text](<MED/assets/images/WhatsApp Image 2024-07-03 at 17.07.04_72c4b6f8.jpg>)
+
+
+
 
